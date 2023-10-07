@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PythagoreanTripletTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2023-10-07T11:34:08" hostname="linux-datta" time="4.659">
+  <properties/>
+  <testcase name="tripletsWhoseSumIs840WithFactorsLessThanOrEqualTo370" classname="PythagoreanTripletTest" time="0.13"/>
+  <testcase name="tripletsWhoseSumIs1000" classname="PythagoreanTripletTest" time="0.013"/>
+  <testcase name="tripletsWhoseSumIs1001" classname="PythagoreanTripletTest" time="0.011"/>
+  <testcase name="tripletsWhoseSumIs108" classname="PythagoreanTripletTest" time="0.001"/>
+  <testcase name="tripletsWhoseSumIs840" classname="PythagoreanTripletTest" time="0.008"/>
+  <testcase name="tripletsWhoseSumIs12" classname="PythagoreanTripletTest" time="0.001"/>
+  <testcase name="tripletsWhoseSumIs90" classname="PythagoreanTripletTest" time="0.001"/>
+  <testcase name="tripletsWhoseSumIs30000WithFactorsLessThanOrEqualTo12500" classname="PythagoreanTripletTest" time="0.707"/>
+  <testcase name="tripletsWhoseSumIs30000" classname="PythagoreanTripletTest" time="3.776"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

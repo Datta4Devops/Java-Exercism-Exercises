@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PrimeCalculatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-10-07T07:46:32" hostname="linux-datta" time="6.397">
+  <properties/>
+  <testcase name="testUndefinedPrime" classname="PrimeCalculatorTest" time="1.341"/>
+  <testcase name="testSixthPrime" classname="PrimeCalculatorTest" time="1.217"/>
+  <testcase name="testFirstPrime" classname="PrimeCalculatorTest" time="1.287"/>
+  <testcase name="testSecondPrime" classname="PrimeCalculatorTest" time="1.274"/>
+  <testcase name="testBigPrime" classname="PrimeCalculatorTest" time="1.275"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
